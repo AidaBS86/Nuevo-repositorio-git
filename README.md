@@ -8,5 +8,5 @@ git clone https://github.com/AidaBS86/Nuevo-repositorio-git.git
 2o git commit -m "actualizar el readme" (añadimos un mensaje de que estamos subiendo)
 3o git push
 IMPORTANTE ABRIR LA TERMINAL EN DOCUMENTO DEL REPOSITORIO (abrir en terminal integrado u open in integrated terminal, boton derecho sobre la carpeta)
-- Para bajar cambios de la nube (cambios en github, y darle a confirmar cambios)
+- Para bajar cambios de la nube (cambios en github, y darle a confirmar cambios, pero para bajarlo, tienes que asegurar que los cambios del vscode estan subidos)
 git pull
