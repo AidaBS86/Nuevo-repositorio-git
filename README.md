@@ -1,4 +1,4 @@
-# Nuevo-repositorio-git
+# Repositorio-informacion-git
 Pruebas de git
 ## Comandos de git
 - Para clonar el repositorio de git, puedes usar el siguiente comando:
