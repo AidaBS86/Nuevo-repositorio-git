@@ -5,6 +5,9 @@ Pruebas de git
 git clone https://github.com/AidaBS86/Nuevo-repositorio-git.git
 - Para subir ficheros a un repositorio:
 1o git add -A (añade todos los ficheros a git)
-2o git commit -m "actualizar el readme" (añadimos un mensaje de que estamos subiendo)
+2o git commit -m "actualizar el readme" (añadimos un mensaje de lo que estamos subiendo, entre comillas)
 3o git push
 IMPORTANTE ABRIR LA TERMINAL EN DOCUMENTO DEL REPOSITORIO (abrir en terminal integrado u open in integrated terminal, boton derecho sobre la carpeta)
+
+
+En github, se puede dar click al botón Commits y se ve el historial de quien a subido y la descripcion.
