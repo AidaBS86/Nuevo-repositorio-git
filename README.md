@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Repositorio-informacion-git
+=======
+# Repositorio-info-git
+>>>>>>> dd3775318fb68018dc93805db20ff2be0bdec7f3
 Pruebas de git
 ## Comandos de git
 - Para clonar el repositorio de git, puedes usar el siguiente comando:
